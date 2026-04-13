@@ -1,8 +1,7 @@
 # Multi-Container Runtime
 
-A lightweight Linux container runtime in C with a long-running supervisor and a kernel-space memory monitor.
-
-Read [`project-guide.md`](project-guide.md) for the full project specification.
+TEAM INFORMATION : SAIESH SHANKAR - PES1UG24CS401
+                   RUJUL JAIN - PES1UG24CS387
 
 ---
 
