@@ -3,7 +3,7 @@
 ## 1. Team Information
 
 Name - Saiesh Shankar | SRN - PES1UG24CS401
-       Rujul Jain | SRN - PES1UG24CS387
+       Rujul Jain | SRN - PES1UG24CS388
 
 ---
 
